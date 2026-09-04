@@ -1,0 +1,140 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "MingBlog",
+      "url": "https://mingblog.site/",
+      "icon": "https://mingblog.site/icons/icon-512.png",
+      "snapshot": "https://bu.dusays.com/2026/08/22/6a8991376b76a.png",
+      "description": "记录日常生活、城市影像、旅行与观察，以及认真看过、读过和听过的作品",
+      "feed": "https://mingblog.site/rss.xml",
+      "posts": [
+        {
+          "title": "三个小工具，三个小问题",
+          "link": "https://mingblog.site/posts/recent-side-projects/",
+          "published": "2026-08-27 08:00"
+        },
+        {
+          "title": "我试着把一张风景照变成一束花",
+          "link": "https://mingblog.site/posts/floraform-bouquet/",
+          "published": "2026-08-12 08:00"
+        },
+        {
+          "title": "从尚未竣工到绿树成荫：广汉中学新校园的这几年",
+          "link": "https://mingblog.site/posts/guanghan-school-campus-years/",
+          "published": "2026-08-08 08:00"
+        }
+      ],
+      "issue_number": 4,
+      "labels": []
+    },
+    {
+      "title": "小曦的园子",
+      "url": "https://xiaoxi.ac.cn/",
+      "icon": "https://img.xiaoxi.ac.cn/logo.png",
+      "snapshot": "https://bu.dusays.com/2026/08/22/6a89923d45517.png",
+      "description": "打理好自己的小园子",
+      "feed": "https://xiaoxi.ac.cn/feed",
+      "posts": [
+        {
+          "title": "婚姻里的伤害，法律究竟能看见多少？——谈离婚诉讼中的精神损害赔偿",
+          "link": "https://xiaoxi.ac.cn/post/202608238514",
+          "published": "2026-08-23 02:07"
+        },
+        {
+          "title": "小曦的上海之旅",
+          "link": "https://xiaoxi.ac.cn/post/202608196229",
+          "published": "2026-08-20 12:16"
+        },
+        {
+          "title": "一切都因为Github在国内无法稳定访问，因此我重构了评论组件！",
+          "link": "https://xiaoxi.ac.cn/post/202608176186",
+          "published": "2026-08-17 19:02"
+        }
+      ],
+      "issue_number": 6,
+      "labels": []
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "icon": "https://cn.cravatar.com/avatar/15e59a60168a6ce1bfc3eddfca8c5a54?s=512",
+      "snapshot": "https://xaoxuu.com/assets/xaoxuu/2022/10/23/63542895cfd29.png",
+      "description": "For all time, always.",
+      "feed": "https://xaoxuu.com/atom.xml",
+      "posts": [
+        {
+          "title": "Stellar 为什么没能进入 Hexo 主题头部",
+          "link": "https://xaoxuu.com/blog/20260815/",
+          "published": "2026-08-15 02:14"
+        },
+        {
+          "title": "梦境：无法定格的偶遇",
+          "link": "https://xaoxuu.com/blog/20260801/",
+          "published": "2026-08-01 15:24"
+        },
+        {
+          "title": "连续两个晚上做梦笑醒",
+          "link": "https://xaoxuu.com/blog/20260226/",
+          "published": "2026-02-26 20:00"
+        }
+      ],
+      "issue_number": 8,
+      "labels": []
+    },
+    {
+      "title": "HiPeach",
+      "url": "https://blog.opeach.cn",
+      "icon": "https://npm.elemecdn.com/opicture@1.0.0/main/avatar.webp",
+      "snapshot": "https://bu.dusays.com/2026/08/22/6a8991b9d71ad.png",
+      "description": "妙不可言",
+      "feed": "https://blog.opeach.cn/atom.xml",
+      "posts": [
+        {
+          "title": "服务器沦为矿机：青龙面板遭恶意植入挖矿程序实录",
+          "link": "https://blog.opeach.cn/posts/adc7.html",
+          "published": "2026-02-10 13:15"
+        },
+        {
+          "title": "使用acme.sh自动获取并续签SSL证书",
+          "link": "https://blog.opeach.cn/posts/878e.html",
+          "published": "2025-07-07 12:00"
+        },
+        {
+          "title": "2024 | 迟到的年度总结",
+          "link": "https://blog.opeach.cn/posts/2024.html",
+          "published": "2025-04-12 13:00"
+        }
+      ],
+      "issue_number": 5,
+      "labels": []
+    },
+    {
+      "title": "一蓑烟雨的博客",
+      "url": "https://easyf12.top/",
+      "icon": "https://bu.dusays.com/2023/12/24/6587c7764111a.webp",
+      "snapshot": "https://bu.dusays.com/2023/12/24/6587c8172c89e.png",
+      "description": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。",
+      "feed": "https://easyf12.top/atom.xml",
+      "posts": [
+        {
+          "title": "2025年终总结与展望",
+          "link": "https://easyf12.top/posts/1defe4de/",
+          "published": "2026-01-01 04:40"
+        },
+        {
+          "title": "运动会随记",
+          "link": "https://easyf12.top/posts/6fa0ff8b/",
+          "published": "2025-10-13 05:25"
+        },
+        {
+          "title": "认真生活",
+          "link": "https://easyf12.top/posts/b29d3567/",
+          "published": "2025-07-16 21:19"
+        }
+      ],
+      "issue_number": 2,
+      "labels": []
+    }
+  ]
+}
